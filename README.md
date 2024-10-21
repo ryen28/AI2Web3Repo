@@ -2,6 +2,8 @@
 
 Introduction to decentralized AI agents development.
 
+Note: cloned this repo from AI2Web3 Bootcamp and using this repo to create Gen AI & Agents Apps.
+
 ## Introduction
 
 Welcome to the **AI2Web3 Bootcamp**. This repository houses all the necessary instructions and resources for an immersive 5-fays program designed to equip students with cutting-edge techniques for developing applications using **Generative Artificial Intelligence** for **Decentralized AI Agents**.
